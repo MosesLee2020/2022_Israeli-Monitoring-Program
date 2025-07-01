@@ -1,6 +1,6 @@
-![BA1](Binacular/BA1.png)
+![BA1](Binacular/BA5.png)
 
-Figure 1. Digital image of **BA1** and its binacular images
+Figure 1. Digital image of **BA5** and its binacular images
 
 
 ![BA12](Binacular/BA12.png)
