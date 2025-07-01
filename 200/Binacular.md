@@ -1,14 +1,13 @@
 ![BA1](Binacular/BA1.png)
-*BA1*
+Figure 1. Digital image of **BA1** and its binacular images
 
 
-![BA1](Binacular/BA12.png)
-*BA12*
+![BA12](Binacular/BA12.png)
+Figure 1. Digital image of **BA12** and its binacular images
 
 
-
-![BA1](Binacular/BA36.png)
-*BA36*
+![BA36](Binacular/BA36.png)
+Figure 1. Digital image of **BA36** and its binacular images
 
 
 
